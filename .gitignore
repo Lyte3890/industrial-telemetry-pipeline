@@ -5,3 +5,4 @@ __pycache__/
 .env
 influxdb-data/
 grafana-data/
+venv/
